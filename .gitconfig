@@ -1,0 +1,10 @@
+[user]
+	name = Rajudurgam
+	email = rajurajendher@gmail.com
+[difftool "sourcetree"]
+	cmd = "'' "
+[mergetool "sourcetree"]
+	cmd = "'' "
+	trustExitCode = true
+[credential "helperselector"]
+	selected = manager
